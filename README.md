@@ -6,7 +6,7 @@ A simple project to practice opening pull requests.
 
 This repo was created to learn the GitHub pull request workflow.
 
-## Geting Started
+## Getting Started
 
 1. Clone the repo
 2. Make a change on a new branch
